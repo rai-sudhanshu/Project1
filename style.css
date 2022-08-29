@@ -65,6 +65,9 @@ body {
     font-family: 'Baloo Bhai 2', cursive;
     position: relative;
     top:-25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
   }
   .container{
@@ -79,12 +82,12 @@ body {
     text-align: center;
   }
   .member {
-    width:13vw;
+    width:30vw;
     font-family: 'Baloo Bhai 2', cursive;
     font-size: 15px;
     display: inline-block;
     position: relative;
-    left: 42vw;
+    left: 35vw;
     border:4px solid greenyellow;
     border-radius: 12px;
     top:-60px;
